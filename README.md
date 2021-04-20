@@ -2,7 +2,7 @@
 - 👀 I’m interested in FullStack Web Development
 - 🌱 I’m currently learning Django and React.js
 - 💞️ I’m looking to collaborate on Web based products using Django
-- 📫 You can reach me at krati.chaturvedi@gmail.com
+- 📫 You can reach me [here](https://www.linkedin.com/in/krati-chaturvedi-73452820/)
 
 <!---
 Krati91/Krati91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
