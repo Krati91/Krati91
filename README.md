@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Krati91
-- 👀 I’m interested in FullStack Web Development
-- 🌱 I’m currently learning Django and React.js
-- 💞️ I’m looking to collaborate on Web based products using Django
+- 👀 I’m interested in FullStack Product Engineering
+- 🌱 I’m currently a Software Development Lead
+- 💞️ I’m looking to collaborate on Web based products using Django or FastAPI
 - 📫 You can reach me [here](https://www.linkedin.com/in/krati-chaturvedi-73452820/)
 
 <!---
